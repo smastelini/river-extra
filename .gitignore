@@ -1,3 +1,7 @@
+.idea/
 poetry.lock
 *.whl
 *.tar.gz
+*.pyc
+/*.ipynb
+.DS_Store
